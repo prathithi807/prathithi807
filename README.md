@@ -4,8 +4,8 @@
 ---
 
 ### 🌱 About Me
-- 🎓 I am passionate about **Data Science, Machine Learning, and Web Development**  
-- 💡 I love **solving real-world problems** using data and AI  
+- 🎓 Passionate about **Data Science, Machine Learning, and Web Development**  
+- 💡 Love **solving real-world problems** using data and AI  
 - 🚀 Currently learning **advanced Python, ML, and Big Data tools**
 
 ---
@@ -36,24 +36,5 @@
 
 ---
 
-### 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/Prathithi/Prathithi/blob/main/Resume_Prathithi.pdf)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathithi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathithi)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathithi@example.com)
-
----
-
-### 🌟 Fun Facts
-- 🤖 I love **building AI & ML projects**  
-- 🌏 Exploring **new technologies** keeps me motivated  
-- 🎯 Always learning **Python & Data Science tips**  
-
----
-
-### 📊 GitHub Stats
-![Prathithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathithi&show_icons=true&theme=radical)
+### 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/prathithi) | [GitHub](https://github.com/Prathithi)
