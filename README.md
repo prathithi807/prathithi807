@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathithi!</h1>
-<h3 align="center">A 3rd Year AIML Engineering Student | Data Enthusiast | Python Lover</h3>
+<h3 align="center">A 3rd Year AIML Engineering Student | Data Enthusiast | Python & Data Explorer</h3>
 
 ---
 
