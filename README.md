@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathithi!</h1>
-<h3 align="center">A 2nd Year AIML Engineering Student | Data Enthusiast | Python Lover</h3>
+<h3 align="center">A 3nd Year AIML Engineering Student | Data Enthusiast | Python Lover</h3>
 
 ---
 
@@ -37,4 +37,4 @@
 ---
 
 ### 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/prathithi) | [GitHub](https://github.com/Prathithi)
+[LinkedIn](www.linkedin.com/in/prathithi-m-l-1a02792a2) | [GitHub](https://github.com/Prathithi)
